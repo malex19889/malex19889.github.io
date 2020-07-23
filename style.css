@@ -41,3 +41,7 @@ h2{
     display: inline-block;
     color: red;
 }
+
+.btn {
+    text-align: center;
+}
