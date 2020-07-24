@@ -68,8 +68,8 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-section {
+/* updated id and class to main */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -134,8 +134,8 @@ section {
     margin: 10px auto;
     max-width: 150px;
 }
-
-article {
+/* updated id and class to section  */
+section{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
