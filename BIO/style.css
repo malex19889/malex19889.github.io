@@ -1,0 +1,47 @@
+body{
+    background-color: #efeee7;  
+    color: #333333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0%;
+    padding: 0%;
+}
+#biopic{
+   border-style: solid;
+   border-color: salmon;
+   border-width: 10px;
+   max-width: 40%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+.container{
+    color: aquamarine;
+}
+
+h1{
+    color: silver;
+    text-align: center;
+}
+
+h2{
+    color: palegreen;
+}
+
+#main-bio{
+    color: red;
+    border-style: solid;
+    border: black;
+    display: inline-block: 250px;
+    
+}
+
+#contact{
+    display: inline-block;
+    color: red;
+}
+
+.btn {
+    text-align: center;
+}
